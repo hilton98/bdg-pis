@@ -1,0 +1,7 @@
+br/edu/ufam/hilton98/WordCount$Args.class
+br/edu/ufam/hilton98/WordCount.class
+br/edu/ufam/hilton98/WordCount$MyMapperIMC.class
+br/edu/ufam/hilton98/WordCount$MyReducer.class
+br/edu/ufam/hilton98/WordCount$MyMapper.class
+br/edu/ufam/hilton98/Tokenizer.class
+br/edu/ufam/hilton98/WordCount$1.class
